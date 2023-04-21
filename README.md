@@ -1,2 +1,1 @@
-# Student-Result-Management-System-
-Student Management System 
+One Sight to get all records in one
